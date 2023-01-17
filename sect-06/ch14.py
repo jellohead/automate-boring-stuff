@@ -24,3 +24,8 @@ print(b)
 spam = 42
 spam = spam + 1
 spam += 1  # this works with most math operators + - * / %
+print(spam)
+
+catLength = len(cat)
+print(catLength)
+print(len(cat))
